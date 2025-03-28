@@ -10,7 +10,7 @@ problems
 prac_prob : find the original one
 prob1 to 5 : simple math quiz
 prob6 to 7 : read part of novel and find the answer
-(why not prob8 bt prac? cuz prac_prob is easy n end with prob7 is cooler than end with prob8 i guess
+(why not prob8 bt prac? cuz prac_prob is easy n end with prob7 is cooler than end with prob8 i guess)
 
 
 else:
