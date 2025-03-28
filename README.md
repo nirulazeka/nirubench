@@ -1,9 +1,13 @@
 # nirubench
+personal HLE bench
+
+# how does it works
+checks one-shot, average, 4/4 correct
+
+I grade each model's problem-solving - I want to see each solution's process.
+
+# Q&A
 
 Q : I don't belive your bench.
 
-a : ok it is just a hobby just know i spend money on this
-
-Q : Examples?
-
-a : no examples bt i guess that hlebench have a similar prob to the probs of this bench alth i am not phd
+A : Ok it's just a hobby. Just know I spend money on this.
