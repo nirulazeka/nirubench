@@ -6,8 +6,13 @@ checks one-shot, average, 4/4 correct
 
 I grade each model's problem-solving - I want to see each solution's process.
 
-# Q&A
+problems
+prac_prob : find the original one
+prob1~5 : simple math quiz
+prob6~7 : read part of novel and find the answer
+(why not prob8 bt prac? cuz prac_prob is easy n end with prob7 is cooler than end with prob8 i guess
 
-Q : I don't belive your bench.
+else:
 
-A : Ok it's just a hobby. Just know I spend money on this.
+q | i don't belive your bench.
+a | ok it's just a hobby. just know i spend money on this.
